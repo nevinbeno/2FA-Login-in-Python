@@ -232,5 +232,5 @@ This project is licensed under the MIT License - See [LICENSE](LICENSE) for deta
 ___
 ## 👨‍💻Author
 **Nevin Beno**<br>
-[LinkedIn](https://www.linkedin.com/in/nevin-beno-2b669833a/) | [GitHub](https://github.com/nevinbeno)<br>
+[LinkedIn](https://www.linkedin.com/in/nevin-beno-2b669833a/) | [GitHub](https://github.com/nevinbeno)<br><br>
 ![Lines of Code](https://img.shields.io/tokei/lines/github/nevinbeno/2FA-Login-in-Python) ![Last Commit](https://img.shields.io/github/last-commit/nevinbeno/2FA-Login-in-Python)
