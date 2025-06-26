@@ -1,5 +1,5 @@
 # Secure Login with 2FA in 🐍
-![Python](https://img.shields.io/badge/python-3.11-blue) ![SQLite](https://img.shields.io/badge/database-SQLite-green) ![License](https://img.shields.io/badge/license-MIT-pink) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.11-blue) ![SQLite](https://img.shields.io/badge/database-SQLite-green) ![License](https://img.shields.io/badge/license-MIT-pink) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&color=FF0000&width=435&lines=Warning..;Error%20!;Login%20Attempt%20Failed;Account%20freezed%20for%2030%20seconds)](https://git.io/typing-svg)
 ## Project Description
 This project is an attempt to build a **secure login system in Python** that implements top - tier security measures, monitors all login attempts and registration activities, hence preventing any suspected malpractice.
