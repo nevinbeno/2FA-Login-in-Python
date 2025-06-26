@@ -121,12 +121,12 @@ To clone the repository, you would need Git installed in your device.
 - Open integrated terminal ``Ctrl+`(backtick)``
 - Run git clone:
     ```bash
-    git clone https://github.com/nevinbeno/repo_name.git
+    git clone https://github.com/nevinbeno/2FA-Login-in-Python.git
     ```
 2. **Direct to the cloned repository:**
 Use the command, to get into the folder.
     ```bash
-    cd repo_name
+    cd 2FA-Login-in-Python
     ```
 3. **Run the Program:**
     ```bash
