@@ -233,4 +233,4 @@ ___
 ## 👨‍💻Author
 **Nevin Beno**
 [LinkedIn](https://www.linkedin.com/in/nevin-beno-2b669833a/) | [GitHub](https://github.com/nevinbeno)<br>
-![Lines of Code](https://img.shields.io/tokei/lines/github/nevinbeno/your-repo) ![Last Commit](https://img.shields.io/github/last-commit/nevinbeno/your-repo)
+![Lines of Code](https://img.shields.io/tokei/lines/github/nevinbeno/2FA-Login-in-Python) ![Last Commit](https://img.shields.io/github/last-commit/nevinbeno/2FA-Login-in-Python)
