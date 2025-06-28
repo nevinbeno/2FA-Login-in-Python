@@ -180,7 +180,7 @@ OK
 - [Multi-Factor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 ----
 ## Acknowledgement
-I would like to express my sincere gratitude to the following individuals and resources for their support and inspiration during the development of this project:
+I would like to extend my heartfelt gratitude to the following individuals for their invaluable guidance, support, and inspiration throughout the development of this project:
 - **Prof. Ajay James**
 - **Irshad P. I**
 - **Alan Thomas**
