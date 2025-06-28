@@ -219,9 +219,9 @@ Contributions are what makes the open source community such an amazing place to 
             ```
         - Open a pull request. 
 4. Improve Documentation:
-- Found a typo or something unclear in the README ? Submit a pulll request to improve it. 
+    - Found a typo or something unclear in the README ? Submit a pulll request to improve it. 
 5. Provide Feedbacks:
-- Suggest improvements, point out ineffiiencies, or provide ideas for better user experience. 
+    - Suggest improvements, point out ineffiiencies, or provide ideas for better user experience. 
 #### Contribution Guidelines:
 - Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a respectful and inclusive environment. 
 - Please write clear commit messages and document your changes when submitting a pull request. 
